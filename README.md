@@ -1,6 +1,5 @@
 # VA-Datathon
 # Open Data Analysis To Curb Opioid Crisis
-2
 ## [Datathon 2017](http://data.virginia.gov/datathon-2017)
 
 This repository contains the work we did for the opioid crisis datathon.
